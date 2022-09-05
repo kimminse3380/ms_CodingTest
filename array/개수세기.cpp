@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(){
+int main(void){
 	int n, v,cnt;
 	scanf("%d", &n);
 	int memo[n];
